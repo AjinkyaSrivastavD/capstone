@@ -1,0 +1,10 @@
+C:\Users\ajink\OneDrive\Desktop\vscode\work\transaction-system-backend\src\main\java\com\example\backend\BackendApplication.java
+C:\Users\ajink\OneDrive\Desktop\vscode\work\transaction-system-backend\src\main\java\com\example\backend\config\SecurityConfig.java
+C:\Users\ajink\OneDrive\Desktop\vscode\work\transaction-system-backend\src\main\java\com\example\backend\controller\AuthController.java
+C:\Users\ajink\OneDrive\Desktop\vscode\work\transaction-system-backend\src\main\java\com\example\backend\controller\TransactionController.java
+C:\Users\ajink\OneDrive\Desktop\vscode\work\transaction-system-backend\src\main\java\com\example\backend\model\Transaction.java
+C:\Users\ajink\OneDrive\Desktop\vscode\work\transaction-system-backend\src\main\java\com\example\backend\model\User.java
+C:\Users\ajink\OneDrive\Desktop\vscode\work\transaction-system-backend\src\main\java\com\example\backend\repository\TransactionRepository.java
+C:\Users\ajink\OneDrive\Desktop\vscode\work\transaction-system-backend\src\main\java\com\example\backend\repository\UserRepository.java
+C:\Users\ajink\OneDrive\Desktop\vscode\work\transaction-system-backend\src\main\java\com\example\backend\service\TransactionService.java
+C:\Users\ajink\OneDrive\Desktop\vscode\work\transaction-system-backend\src\main\java\com\example\backend\service\UserService.java
